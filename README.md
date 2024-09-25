@@ -13,8 +13,8 @@ Aprimorar as minhas habilidades com Power BI, focando na criação de dashboards
 Fonte: 
 [Kaggle - Coffee Shop Sales](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales/data)
 
-1. Qual tem sido a tendência de vendas da Maven Roasters ao longo do tempo?
+1. Qual tem sido a tendência de vendas da Maven Roasters ao longo do tempo?<br>
 ![img 1](https://github.com/gubetete/dashboard-powerbi-coffeshop/blob/main/img/pbi1.png?raw=true)
 
-2. Quais produtos são mais e menos vendidos? Quais geram mais receita para o negócio?
+2. Quais produtos são mais e menos vendidos? Quais geram mais receita para o negócio?<br>
 ![img 2](https://github.com/gubetete/dashboard-powerbi-coffeshop/blob/main/img/pbi2.png?raw=true)
