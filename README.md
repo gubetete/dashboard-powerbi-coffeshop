@@ -14,5 +14,5 @@ Fonte:
 [Kaggle - Coffee Shop Sales](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales/data)
 
 
-[img 1](https://github.com/gubetete/dashboard-powerbi-coffeshop/blob/main/img/pbi1.png?raw=true)
-[img 2](https://github.com/gubetete/dashboard-powerbi-coffeshop/blob/main/img/pbi2.png?raw=true)
+![img 1](https://github.com/gubetete/dashboard-powerbi-coffeshop/blob/main/img/pbi1.png?raw=true)
+![img 2](https://github.com/gubetete/dashboard-powerbi-coffeshop/blob/main/img/pbi2.png?raw=true)
