@@ -14,9 +14,9 @@ Fonte:
 [Kaggle - Coffee Shop Sales](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales/data)
 
 1. Qual tem sido a tendência de vendas da Maven Roasters ao longo do tempo?
-2. 
+   
 ![img 1](https://github.com/gubetete/dashboard-powerbi-coffeshop/blob/main/img/pbi1.png?raw=true)
 
 3. Quais produtos são mais e menos vendidos? Quais geram mais receita para o negócio?
-4. 
+   
 ![img 2](https://github.com/gubetete/dashboard-powerbi-coffeshop/blob/main/img/pbi2.png?raw=true)
