@@ -1,4 +1,4 @@
-<h1>Analise de Vendas de Cafeteria</h1>
+<h1>Análise de Vendas de Cafeteria</h1>
 
 <h2>Objetivo:</h2>
 
